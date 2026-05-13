@@ -1,6 +1,6 @@
 # Camila
 
-Java Developer • Backend Journey • System Builder
+Java Developer • Learning Backend Engineering • Building Systems
 
 ```java
 System.out.println("Building systems and leveling up daily.");
@@ -8,7 +8,7 @@ System.out.println("Building systems and leveling up daily.");
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camiladev-cd&theme=tokyonight" />
 </p>
----
+
 
 ## 🚀 Current Focus
 
