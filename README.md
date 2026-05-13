@@ -6,7 +6,7 @@ Java Developer • Backend Journey • System Builder
 System.out.println("Building systems and leveling up daily.");
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=camiladev-cd&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiladev-cd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 ---
 
